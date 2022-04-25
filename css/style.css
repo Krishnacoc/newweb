@@ -211,7 +211,7 @@ section{
     display: flex;
     align-items: center;
   background: violet; 
-   background: url(/images/moon.jpg) no-repeat;
+   background: url(/images/moon.jpg) ;
   background-position : border left;
     background-size: cover;
     background-position: center;
